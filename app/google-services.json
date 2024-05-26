@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861624946177",
+    "project_id": "note-mvvm-roomdatabase",
+    "storage_bucket": "note-mvvm-roomdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861624946177:android:62e8230a58e6c6484d3a00",
+        "android_client_info": {
+          "package_name": "com.example.notemvvmroomdatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm9Tcias2SjwudfQBE9-ZBh1eGwn1hJUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
